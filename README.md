@@ -1,2 +1,0 @@
-# sb
-Created with CodeSandbox
